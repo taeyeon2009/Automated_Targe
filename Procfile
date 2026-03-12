@@ -1,1 +1,1 @@
-worker: python ai_quant_manager.py
+worker: python scheduler.py
